@@ -72,7 +72,7 @@
     <td>
         <img src="https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_badminton_1x.jpg">
     </td>
-    <td class="va">
+    <td class="va" style="vertical-align: top">
         Бадминтон, dfsdfs
     </td>
   </tr>
