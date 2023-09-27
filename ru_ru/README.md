@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td>
-        <img src="https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_badminton_1x.jpg">
+        <img src="https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_badminton_1x.jpg" width="200px">
     </td>
     <td class="va" style="vertical-align: top">
         Бадминтон, dfsdfs
