@@ -2,26 +2,26 @@
 
 ![americanfootball]
 
-`Американский футбол`
-`Суперкубок`
-`Superbowl`
+- `Американский футбол`
+- `Суперкубок`
+- `Superbowl`
 
 # Стрельба из лука
 
 ![archery]
 
-`Стрельба из лука`
+- `Стрельба из лука`
 
 # Живопись
 
 ![art]
 
-`Живопись`
-`Картина`
-`Окраска`
-`Роспись`
-`Художественная мастерская`
-`Художественные мастерские`
+- `Живопись`
+- `Картина`
+- `Окраска`
+- `Роспись`
+- `Художественная мастерская`
+- `Художественные мастерские`
 
 # Спортивная гимнастика
 
@@ -229,6 +229,77 @@
 - `Крикет`
 - `Cоревнования по крикету`
 
+# Велосипед
+
+![cycling]
+
+- `Байк`
+- `Велосипед`
+- `Велосипеды`
+- `Велоспорт`
+- `Езда на велосипеде`
+- `Ездить на велосипеде`
+- `Кататься на велосипеде`
+- `Bike`
+- `Mountain Bike`
+
+# BMX
+
+![cyclingbmx]
+
+- `BMX`
+
+# Танцы
+
+![dancing]
+
+- `Балет`
+- `Танец`
+- `Танцевать`
+- `Танцы`
+
+# Свидание
+
+![datenight]
+
+- `Романтический ужин`
+- `Свидание`
+- `Ужин при свечах`
+
+# Зубы
+
+![dentist]
+
+- `Зубной`
+- `Стоматолог`
+- `Стоматология`
+- `Чистка зубов`
+
+# Ужин
+
+![dinner]
+
+- `Рестораны`
+- `Ужин`
+- `Ужины`
+
+# Напитки
+
+![drinks]
+
+- `Бар`
+- `Вечеринка`
+- `Винный бар`
+- `Выпивка`
+- `Коктейли`
+- `Коктейль`
+- `Напитки`
+- `Пати`
+- `Cocktail`
+- `Party`
+
+
+
 [americanfootball]:             https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_americanfootball_1x.jpg
 [archery]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_archery_1x.jpg
 [art]:                          https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_art_1x.jpg
@@ -259,3 +330,10 @@
 [concert]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_concert_1x.jpg
 [cooking]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cooking_1x.jpg
 [cricket]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cricket_1x.jpg
+[cycling]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cycling_1x.jpg
+[cyclingbmx]:                   https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cyclingbmx_1x.jpg
+[dancing]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_dancing_1x.jpg
+[datenight]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_datenight_1x.jpg
+[dentist]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_dentist_1x.jpg
+[dinner]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_dinner_1x.jpg
+[drinks]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_drinks_1x.jpg
