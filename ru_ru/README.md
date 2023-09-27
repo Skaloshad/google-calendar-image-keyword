@@ -2,187 +2,232 @@
 
 ![americanfootball]
 
-- `Американский футбол`
-- `Суперкубок`
-- `Superbowl`
+`Американский футбол`,
+`Суперкубок`,
+`Superbowl`
 
 # Стрельба из лука
 
 ![archery]
 
-- Стрельба из лука
+`Стрельба из лука`
 
 # Живопись
 
 ![art]
 
-- Живопись
-- Картина
-- Окраска
-- Роспись
-- Художественная мастерская
-- Художественные мастерские
+`Живопись`, 
+`Картина`,
+`Окраска`,
+`Роспись`,
+`Художественная мастерская`,
+`Художественные мастерские`
 
 # Спортивная гимнастика
 
 ![artisticgymnastics]
 
-- Спортивная гимнастика
+- `Спортивная гимнастика`
 
 # Прыжки
 
 ![athleticsjumping]
 
-- Прыжки
+- `Прыжки`
 
 # Метание
 
 ![athleticsthrowing]
 
-- Метание диска
-- Метание копья
-- Метание молота
-- Толкание ядра
+- `Метание диска`
+- `Метание копья`
+- `Метание молота`
+- `Толкание ядра`
 
 # Материнство
 
 ![babyshower]
 
-- Беременность
-- Материнство
-- Babyshower
+- `Беременность`
+- `Материнство`
+- `Babyshower`
 
 # День знаний
 
 ![backtoschool]
 
-- Первое сентября
-- Первый день в школе
-- Сентября
-- Снова в школу
+- `Первое сентября`
+- `Первый день в школе`
+- `Сентября`
+- `Снова в школу`
 
 # Бадминтон
 
 ![badminton]
 
-- Бадминтон
+- `Бадминтон`
 
 # Бейсбол
 
 ![baseball]
 
-- Бейсбол
+- `Бейсбол`
 
 # Баскетбол
 
 ![basketball]
 
-- Баскетбол 
+- `Баскетбол` 
 
 # Барбекю
 
 ![bbq]
 
-- Барбекю
-- Гриль
-- Шашлык
+- `Барбекю`
+- `Гриль`
+- `Шашлык`
 
 # Пиво
 
 ![beer]
 
-- Октоберфест
-- Пиво
+- `Октоберфест`
+- `Пиво`
 
 # Бильярд
 
 ![billiard]
 
-- Бильярд
+- `Бильярд`
 
 # День рождения
 
 ![birthday]
 
-- День рождения
+- `День рождения`
 
 # Книжный клуб
 
 ![bookclub]
 
-- Книжный клуб
+- `Книжный клуб`
 
 # Боулинг
 
 ![bowling]
 
-- Боулинг
+- `Боулинг`
 
 # Бокс
 
 ![boxing]
 
-- Бокс
+- `Бокс`
 
 # Завтрак
 
 ![breakfast]
 
-- Завтрак
-- Завтракать
-- Завтраки
-- Полдник
-- Полдники
+- `Завтрак`
+- `Завтракать`
+- `Завтраки`
+- `Полдник`
+- `Полдники`
 
 # Кемпинг
 
 ![camping]
 
-- Кемпинг
+- `Кемпинг`
 
 # Автосервис
 
 ![carmaintenance]
 
-- Автосервис
-- Замена шин
-- Ремонт авто
-- Ремонт машины
+- `Автосервис`
+- `Замена шин`
+- `Ремонт авто`
+- `Ремонт машины`
 
 # Китайский новый год
 
 ![chinesenewyear]
 
-- Вьетнамский Новый год
-- Китайский Новый год
+- `Вьетнамский Новый год`
+- `Китайский Новый год`
 
 # Кино
 
 ![cinema]
 
-- Кино
-- Кинотеатр
-- Фильм
-- Фильмы
+- `Кино`
+- `Кинотеатр`
+- `Фильм`
+- `Фильмы`
 
 # Уборка
 
 ![clean]
 
-- Наводить порядок
-- Пылесос
-- Пылесосить
-- Убирать дом
-- Убирать квартиру
+- `Наводить порядок`
+- `Пылесос`
+- `Пылесосить`
+- `Убирать дом`
+- `Убирать квартиру`
 
 # Скалолазание
 
 ![climbing]
 
-- Боулдеринг
-- Скалолазание
+- `Боулдеринг`
+- `Скалолазание`
 
+# Код
 
+![code]
+
+- `Веб программирование`
+- `Веб разработка`
+- `Веб-программирование`
+- `Веб-разработка`
+- `Информатика`
+- `Научиться программировать`
+- `Программирование на java`
+- `Программирование на python`
+- `Хакатон`
+- `Codecademy`
+- `Hour of code`
+- `Rails Girls`
+- `railsgirls`
+
+# Кофе
+
+![coffee]
+
+- `Кофе`
+
+# Концерт
+
+![concert]
+
+- `Концерт`
+- `Концерты`
+
+# Готовка
+
+![cooking]
+
+- `Готовка`
+- `Приготовить обед`
+- `Приготовить ужин`
+- `Приготовление еды`
+
+# Крикет
+
+![cricket]
+
+- `Крикет`
+- `Cоревнования по крикету`
 
 [americanfootball]:             https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_americanfootball_1x.jpg
 [archery]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_archery_1x.jpg
@@ -209,3 +254,8 @@
 [cinema]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cinema_1x.jpg
 [clean]:                        https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_clean_1x.jpg
 [climbing]:                     https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_climbing_1x.jpg
+[code]:                         https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_code_1x.jpg
+[coffee]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_coffee_1x.jpg
+[concert]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_concert_1x.jpg
+[cooking]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cooking_1x.jpg
+[cricket]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_cricket_1x.jpg
