@@ -52,7 +52,31 @@
 - Материнство
 - Babyshower
 
+# День знаний
 
+![backtoschool_1x]
+
+- Первое сентября
+- Первый день в школе
+- Сентября
+- Снова в школу
+
+# Бадминтон
+
+![badminton_1x]
+
+- Бадминтон
+
+<table>
+  <tr>
+    <td>
+        <img src="https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_badminton_1x.jpg">
+    </td>
+    <td class="va">
+        Бадминтон, dfsdfs
+    </td>
+  </tr>
+</table>
 
 [americanfootball_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_americanfootball_1x.jpg
 [archery_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_archery_1x.jpg
@@ -61,3 +85,14 @@
 [athleticsjumping_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_athleticsjumping_1x.jpg
 [athleticsthrowing_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_athleticsthrowing_1x.jpg
 [babyshower_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_babyshower_1x.jpg
+[backtoschool_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_backtoschool_1x.jpg
+[badminton_1x]: https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_badminton_1x.jpg
+
+<style>
+    .va {
+        vertical-align: top
+    }
+    img {
+        width: 200px
+    }
+</style>
