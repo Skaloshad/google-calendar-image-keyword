@@ -298,6 +298,211 @@
 - `Cocktail`
 - `Party`
 
+# Верховая езда
+
+![equestrian]
+
+- `Верховая езда`
+- `Выездка`
+- `Конный спорт`
+
+# Фехтование
+
+![fencing]
+
+- `Фехтование`
+
+# Хоккей на траве
+
+![fieldhockey]
+
+- `Хоккей на траве`
+
+# Настольные игры
+
+![gamenight]
+
+- `Карты`
+- `Настолки`
+- `Настольные игры`
+
+# Новый год
+
+![genericnewyear]
+
+- `Новогодний`
+- `Новый год`
+
+# Гольф
+
+![golf]
+
+- `Гольф`
+
+# Выпускной
+
+![graduation]
+
+- `Выпускной`
+
+# Тренировки
+
+![gym]
+
+- `Аэробика`
+- `Бодибилдинг`
+- `Кроссфит`
+- `Спорт`
+- `Спортзал`
+- `Тренировка`
+- `Тренировки`
+- `Фитнес`
+- `Фитнес-центр`
+- `Фитнесс`
+- `Crossfit`
+- `Fitness`
+
+# Стрижка
+
+![haircut]
+
+- `Волос`
+- `Волосы`
+- `Парикмахер`
+- `Стрижка`
+
+# Хэллоуин
+
+![halloween]
+
+- `День Всех Святых`
+- `Хэллоуин`
+
+# Гандбол
+
+![handball]
+
+- `Гандбол`
+
+# Рукоделие
+
+![handcraft]
+
+- `Вязание`
+- `Рукоделие`
+- `Своими руками`
+- `Шитье`
+
+# Хайкинг
+
+![hiking]
+
+- `Хайкинг`
+
+# Исламский Новый год
+
+![islamicnewyear]
+
+- `Исламский Новый год`
+- `Новый год Парси`
+- `Новый год по Хиджре`
+
+# Боевые искусства
+
+![karate]
+
+- `Боевые искусства`
+- `Джиу джитсу`
+- `Джиу-джитсу`
+- `Джиуджитсу`
+- `Дзюдо`
+- `Карате`
+
+# Каякинг
+
+![kayaking]
+
+- `Каяк`
+- `Каякинг`
+
+# Музыкальные инструменты
+
+![learninstrument]
+
+- `Виолончель`
+- `Гобой`
+- `Кларнет`
+- `Классическая музыка`
+- `Контрабас`
+- `Музыкальный ансамбль`
+- `Музыкальный класс`
+- `Оркестр`
+- `Пение`
+- `Петь`
+- `Пианино`
+- `Репетиции хора`
+- `Саксофон`
+- `Струнный квартет`
+- `Тромбон`
+- `Туба`
+- `Урок игры на гитаре`
+- `Флейта`
+- `Фортепиано`
+- `Хор`
+
+# Иностранные языки
+
+![learnlanguage]
+
+- `Заниматься` [любой язык] `языком`
+- `Заниматься английским языком`
+- `Заниматься французским языком`
+- `Курс` [любой язык] `языка`
+- `Курс русского языка`
+
+# Обед
+
+![lunch]
+
+- `Обед`
+- `Обеды`
+
+# Маникюр
+
+![manicure]
+
+- `Маникюр`
+- `Маникюры`
+- `Педикюр`
+
+# Жирный вторник
+
+![mardigras]
+
+- `Жирный вторник`
+- `Марди Гра`
+- `Mardi Gras`
+
+# Массаж
+
+![massage]
+
+- `Массаж`
+
+# Персидский Новый год
+
+![nowruz]
+
+- `Навруз`
+- `Персидский Новый год`
+
+# Замена масла
+
+![oilchange]
+
+- `Замена масла`
+
+# 
 
 
 [americanfootball]:             https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_americanfootball_1x.jpg
@@ -337,3 +542,27 @@
 [dentist]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_dentist_1x.jpg
 [dinner]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_dinner_1x.jpg
 [drinks]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_drinks_1x.jpg
+[equestrian]:                   https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_equestrian_1x.jpg
+[fencing]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_fencing_1x.jpg
+[fieldhockey]:                  https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_fieldhockey_1x.jpg
+[gamenight]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_gamenight_1x.jpg
+[genericnewyear]:               https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_genericnewyear_1x.jpg
+[golf]:                         https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_golf_1x.jpg
+[graduation]:                   https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_graduation_1x.jpg
+[gym]:                          https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_gym_1x.jpg
+[haircut]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_haircut_1x.jpg
+[halloween]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_halloween_1x.jpg
+[handball]:                     https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_handball_1x.jpg
+[handcraft]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_handcraft_1x.jpg
+[hiking]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_hiking_1x.jpg
+[islamicnewyear]:               https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_islamicnewyear_1x.jpg
+[karate]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_karate_1x.jpg
+[kayaking]:                     https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_kayaking_1x.jpg
+[learninstrument]:              https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_learninstrument_1x.jpg
+[learnlanguage]:                https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_learnlanguage_1x.jpg
+[lunch]:                        https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_lunch_1x.jpg
+[manicure]:                     https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_manicure_1x.jpg
+[mardigras]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_mardigras_1x.jpg
+[massage]:                      https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_massage_1x.jpg
+[nowruz]:                       https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_nowruz_1x.jpg
+[oilchange]:                    https://ssl.gstatic.com/calendar/images/eventillustrations/v1/img_oilchange_1x.jpg
